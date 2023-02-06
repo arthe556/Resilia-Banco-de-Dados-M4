@@ -7,5 +7,10 @@
 ![7](https://user-images.githubusercontent.com/113726682/216955130-4dbd4ae7-93ab-42b8-8dd0-62285f6e0169.jpg)
 ![8](https://user-images.githubusercontent.com/113726682/216955158-ad8d235b-c8a8-471c-8a85-faa7eb472597.jpg)
 ![9](https://user-images.githubusercontent.com/113726682/216955176-018e2a4d-8c5e-4074-9020-bfd72b3057fa.jpg)
-![10](https://user-images.githubusercontent.com/113726682/216955209-72e9f6a3-5c43-40d4-a01c-a42604d9af05.jpg)
+![10](https://user-images.githubusercontent.com/113726682/216956714-2b8b0f9e-103b-4d0c-ac79-c511d00a3c27.jpg)
 
+Github dos integrantes:
+
+https://github.com/LaGabi123g
+https://github.com/arthe556
+https://GitHub.com/Eumisael
