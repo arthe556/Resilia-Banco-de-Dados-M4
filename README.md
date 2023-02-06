@@ -1,3 +1,6 @@
+Projeto MySQL - Modelagem de banco de dados e dashboards com análises voltados ao tema Game of Thrones.
+
+
 ![1](https://user-images.githubusercontent.com/113726682/216954986-8c63bd98-b48e-4543-ac2f-d9dd4de153ce.jpg)
 ![2](https://user-images.githubusercontent.com/113726682/216955029-fdfd26a1-932d-4680-b415-ff5ce775bce9.jpg)
 ![3](https://user-images.githubusercontent.com/113726682/216955053-39529db1-9142-436d-89a2-0095315cee21.jpg)
