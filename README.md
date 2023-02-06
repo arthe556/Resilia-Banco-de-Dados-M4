@@ -11,8 +11,3 @@
 
 Github dos integrantes:
 
-https://github.com/LaGabi123g
-
-https://github.com/arthe556
-
-https://GitHub.com/Eumisael
